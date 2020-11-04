@@ -1,0 +1,7 @@
+[1104/092956.998:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/105432.066:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/105432.124:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\smpia\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3e8e831c-6de4-4dff-afb1-f748f1e0ce90: The system cannot find the path specified. (0x3)
+[1104/133527.844:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/133527.869:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\smpia\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4870977a-cf66-4b54-8f23-7b429dc1dc6d: The system cannot find the path specified. (0x3)
+[1104/134505.675:ERROR:process_info.cc(359)] UncheckedAllocate
+[1104/135329.744:ERROR:process_info.cc(359)] UncheckedAllocate
